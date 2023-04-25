@@ -10,30 +10,6 @@ Requires blender, 'decision_fitness.csv', and 'components.csv'
 
 There is a TON of room for improvement, bit it gets the job done. Good enough.
 
-              ,  ,
-             / \/ \,'| _
-            ,'    '  ,' |,|
-           ,'           ' |,'|
-          ,'                 ;'| _
-         ,'                    '' |
-        ,'                        ;-,
-       (___                        /
-     ,'    `.  ___               ,'
-    :       ,`'   `-.           /
-    |-._ o /         \         /
-   (    `-(           )       /
-  ,'`.     \      o  /      ,'
- /    `     `.     ,'      /
-(             `"""'       /
- `._                     /
-    `--.______        '"`.
-       \__,__,`---._   '`;
-            ))`-^--')`,-'
-          ,',_____,'  |
-          \_          `).
-  		   `.      _,'  `
-            /`-._,-'      \
-
 Instructions for drawing rockets onto blender enviornments:
 
 	1. Add 'compnents.csv' and 'decision_fitness.csv' to current folder
