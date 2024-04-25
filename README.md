@@ -24,3 +24,8 @@ Instructions for drawing rockets onto blender enviornments:
 	8. Everything here is just like normal, objects are only modified and not deleted. Build the stage, apply shaders, add lights, and camera, then export the video like normal. 
 
 This is meant to allow shader application and building after the keystones for the rocket are added. Building a stage beforehand is possible but make sure there are no objects named 'cube', 'cylinder', or 'cone' (or any '.001' etc.) in the upper right corner. With less powerful computers, it is possible to initilize the rocket beforehand, apply shaders, and build the stage. Just split the file in half before the for loop, apply shaders and build the stage around the cylinder reference. 
+
+
+
+https://github.com/MDBrunson/Rocket-Visualizer/assets/115712069/d878c9cb-e2fe-4985-8ab5-a52f9ca8fb88
+
